@@ -80,6 +80,7 @@ main {
     text-decoration: underline;
     font-weight: 900;
     color: rgb(16, 16, 216);
+    cursor: pointer;
 }
 
 .price h2{
