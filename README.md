@@ -11,7 +11,7 @@
 </p>
 
 <div align="center">
-   Projeto desenvolvido como desfaio do site frontend Mentor.
+   Projeto desenvolvido como desafio do site frontend Mentor.
 </div>
 
 <p align="center">
